@@ -1,0 +1,23 @@
+{
+  "name": "azure-wa-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "engines": {
+    "node": ">=6.10.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yikai3838/azure-wa-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yikai3838/azure-wa-sample/issues"
+  },
+  "homepage": "https://github.com/yikai3838/azure-wa-sample#readme"
+}
