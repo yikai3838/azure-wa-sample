@@ -7,7 +7,7 @@ function onRequest(request, response) {
   console.log("From: ", request.rawHeaders);
 
   response.writeHead(200, {"Content-Type": "text/plain"});
-  response.write("Hello World");
+  response.write("Hello World, " + Date());
   response.end();
 }
 
